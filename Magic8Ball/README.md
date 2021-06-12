@@ -2,14 +2,15 @@
 
 # Magic 8 Ball
 
-## Our Goal
+## The Goal
 
-The objective of this challenge is to apply the skills you learned in the Dicee tutorial and get you making an app with functionality all by yourself. There’s no new concepts here. But you’re flyin’ solo this time! Most of the programming skills are gained in the challenges rather than the tutorials. It’s when you’re using your new-found programming skills to bend the app to your will that you’re truly levelling up as a developer.
+The objective of this challenge was to apply the skills we learned in the last tutoriala and making an app with functionality all by yourself. 
 
-## What you will create
+## What is the App
 
-We’re going to make a Magic 8 Ball app. You can ask the app to make all your hard decisions! With this app in your pocket, you’ll always have an answer to life’s many conundrums!
+We’re going to make a Magic 8 Ball app. We can ask the app to make all your hard decisions! With this app in your pocket, you’ll always have an answer to life’s many conundrums! XD
 
+![Magic8Ball](https://user-images.githubusercontent.com/41816749/121790808-ec369b00-cc00-11eb-81d4-fbc6d32360f8.png)
 
 
 
